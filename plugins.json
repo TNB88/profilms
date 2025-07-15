@@ -255,7 +255,7 @@
         "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/buncha.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
-        "status": 0,
+        "status": 1,
         "language": "vi",
         "authors": [
             "Linor"
