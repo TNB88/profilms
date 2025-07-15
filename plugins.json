@@ -237,7 +237,7 @@
         "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/cakhia.ico",
         "apiVersion": 1,
         "fileSize": 48209,
-        "status": 1,
+        "status": 0,
         "authors": [
             "linor"
         ],
@@ -249,6 +249,24 @@
         "internalName": "CakhiaTV",
         "description": "FullHD",
         "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/CakhiaTV.cs3",
-        "name": "CakhiaTV"
+        "name": "LiveBongDa"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/buncha.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Live",
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "BunchaProvider",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/BunchaProvider.cs3",
+        "name": "BunchaTV"
     }
 ]
