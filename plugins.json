@@ -237,7 +237,7 @@
         "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/cakhia.ico",
         "apiVersion": 1,
         "fileSize": 48209,
-        "status": 0,
+        "status": 1,
         "authors": [
             "linor"
         ],
