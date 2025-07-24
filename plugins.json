@@ -267,5 +267,26 @@
         "internalName": "BunchaProvider",
         "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/BunchaProvider.cs3",
         "name": "BunchaTV"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/phimviet.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+            "Live",
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "PhimBetaProvider",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimBetaProvider.cs3",
+        "name": "PhimBetaProviderr"
     }
 ]
