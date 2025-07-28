@@ -1,16 +1,23 @@
-import type { NextApiRequest, NextApiResponse } from 'next'
-import { redis } from '../../../lib/redis'
+const { redis } = require('../../../lib/redis')
 
-export default async function handler(req: NextApiRequest, res: NextApiResponse) {
+module.exports = async function handler(req, res) {
   const { filename } = req.query
-  if (typeof filename !== 'string') return res.status(400).end('Invalid filename')
+  if (typeof filename !== 'string') {
+    res.status(400).end('Invalid filename')
+    return
+  }
 
   try {
-    const content = await redis.get<string>(filename)
-    if (!content) return res.status(404).end('Not Found')
+    const content = await redis.get(filename)
+    if (!content) {
+      res.status(404).end('Not Found')
+      return
+    }
+
     res.setHeader('Content-Type', 'application/vnd.apple.mpegurl')
     res.status(200).send(content)
-  } catch {
+  } catch (e) {
     res.status(500).end('Error reading file')
   }
 }
+
