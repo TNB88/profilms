@@ -1,14 +1,9 @@
 {
-  "name": "vercel-m3u8-upload",
+  "name": "cloudstream-vercel-api",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
+  "type": "module",
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "@upstash/redis": "^1.26.1"
   }
 }
+
