@@ -1,24 +1,19 @@
-import fs from 'fs'
-import path from 'path'
+let memoryStore = {}
 
-export default async function handler(req, res) {
-  if (req.method !== 'POST') {
-    return res.status(405).json({ error: 'Method not allowed' })
-  }
-
-  try {
+export default function handler(req, res) {
+  if (req.method === 'POST') {
     const { filename, content } = req.body
-
     if (!filename || !content) {
-      return res.status(400).json({ error: 'Missing filename or content' })
+      return res.status(400).json({ error: 'Missing data' })
     }
 
-    const filePath = path.join(process.cwd(), 'public', filename)
-    fs.writeFileSync(filePath, content, 'utf8')
+    // Lưu vào RAM
+    memoryStore[filename] = content
 
-    const fileUrl = `https://${req.headers.host}/${filename}`
-    return res.status(200).json({ url: fileUrl })
-  } catch (e) {
-    return res.status(500).json({ error: e.message })
+    return res.status(200).json({
+      url: `${req.headers.host.startsWith('localhost') ? 'http://' : 'https://'}${req.headers.host}/api/raw/${encodeURIComponent(filename)}`
+    })
+  } else {
+    res.status(405).json({ error: 'Method not allowed' })
   }
 }
