@@ -1,6 +1,8 @@
-const { redis } = require('../../lib/redis')
+// pages/api/upload.js
 
-module.exports = async function handler(req, res) {
+import { redis } from '../../lib/redis'
+
+export default async function handler(req, res) {
   if (req.method !== 'POST') {
     res.status(405).end('Method Not Allowed')
     return
@@ -21,4 +23,3 @@ module.exports = async function handler(req, res) {
     res.status(500).json({ error: 'Upload failed' })
   }
 }
-
