@@ -1,6 +1,6 @@
-const { redis } = require('../../../lib/redis')
+import { redis } from '../../../lib/redis'
 
-module.exports = async function handler(req, res) {
+export default async function handler(req, res) {
   const { filename } = req.query
   if (typeof filename !== 'string') {
     res.status(400).end('Invalid filename')
@@ -20,4 +20,3 @@ module.exports = async function handler(req, res) {
     res.status(500).end('Error reading file')
   }
 }
-
