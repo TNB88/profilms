@@ -1,13 +1,12 @@
-let memoryStore = {}
+import { memoryStore } from './store'
 
 export default function handler(req, res) {
   if (req.method === 'POST') {
     const { filename, content } = req.body
     if (!filename || !content) {
-      return res.status(400).json({ error: 'Missing data' })
+      return res.status(400).json({ error: 'Missing filename or content' })
     }
 
-    // Lưu vào RAM
     memoryStore[filename] = content
 
     return res.status(200).json({
