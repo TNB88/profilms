@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
+    "next": "13.4.19",
     "@upstash/redis": "^1.26.1"
   }
 }
+
 
