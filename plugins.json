@@ -57,7 +57,7 @@
         "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/tvphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
-        "status": 1,
+        "status": 0,
         "language": "vi",
         "authors": [
             "Linor"
