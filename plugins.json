@@ -322,5 +322,24 @@
         "internalName": "NguonCProvider",
         "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimNguonCProvider.cs3",
         "name": "PhimNguồnC"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/sieutamphim.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SieuTamPhim",
+        "url": "https://raw.githubusercontent.com/linor5757/cloudstream-plugin/main/SieuTamPhim.cs3",
+        "name": "Siêu Tầm Phim"
     }
 ]
