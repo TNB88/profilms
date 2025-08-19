@@ -341,5 +341,24 @@
         "internalName": "SieuTamPhim",
         "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/SieuTamPhim.cs3",
         "name": "Siêu Tầm Phim"
+    },
+    {
+        "iconUrl": "https://sdfim.org/wp-content/uploads/2023/01/SDFIM-15.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Linor"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SdFim",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/SdFim.cs3",
+        "name": "SdFim"
     }
 ]
