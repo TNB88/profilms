@@ -401,7 +401,7 @@
         "iconUrl": "https://www.rophim.me/images/favicon.ico?v=0.1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
-        "status": 1,
+        "status": 0,
         "language": "vi",
         "authors": [
             "Linor"
