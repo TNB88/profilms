@@ -2,7 +2,7 @@
     "name": "Phim Việt Nam",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/plugins.json"
+      "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/plugins.json"
     ]
 }
 
