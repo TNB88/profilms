@@ -1,8 +1,8 @@
 [
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/phimmoi.ico",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/phimmoi.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -14,13 +14,13 @@
         ],
         "version": 2,
         "internalName": "PhimMoiProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimMoiChillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/PhimMoiChillProvider.cs3",
         "name": "PhimMoiProviderr"
     },
     {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -33,13 +33,13 @@
         ],
         "version": 2,
         "internalName": "OPhimProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/OPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -50,13 +50,13 @@
         ],
         "version": 2,
         "internalName": "AnimeHayProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/tvphim.ico",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/tvphim.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 0,
         "language": "vi",
         "authors": [
@@ -69,13 +69,13 @@
         ],
         "version": 2,
         "internalName": "TvPhimProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/TvPhim.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/TvPhim.cs3",
         "name": "TvPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -86,13 +86,13 @@
         ],
         "version": 2,
         "internalName": "AnimeVietsubProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/AnimeVietsub.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/AnimeVietsub.cs3",
         "name": "AnimeVietsubProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -105,13 +105,13 @@
         ],
         "version": 2,
         "internalName": "KKPhimProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/KKPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/bluphim.ico",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/bluphim.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -123,13 +123,13 @@
         ],
         "version": 2,
         "internalName": "BluPhim",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/BluPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/BluPhimProvider.cs3",
         "name": "BluPhim"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -141,13 +141,13 @@
         ],
         "version": 2,
         "internalName": "PhimLongTiengProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimLongTieng.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/PhimLongTieng.cs3",
         "name": "PhimLongTieng"
     },
     {
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 0,
         "language": "vi",
         "authors": [
@@ -159,13 +159,13 @@
         ],
         "version": 2,
         "internalName": "VipPhimProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/VipPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
     },
     {
         "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -176,13 +176,13 @@
         ],
         "version": 2,
         "internalName": "YanHH3DProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/Yan3dProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/Yan3dProvider.cs3",
         "name": "YanHH3DProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/hhpanda.png",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/hhpanda.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -193,13 +193,13 @@
         ],
         "version": 2,
         "internalName": "HHPandaProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/PandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/hhkungfu.png",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/hhkungfu.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -211,13 +211,13 @@
         ],
         "version": 2,
         "internalName": "HHkungfuProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/HHKungFuProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/HHKungFuProvider.cs3",
         "name": "HHkungfuProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/xoilac.png",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/xoilac.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -229,11 +229,11 @@
         ],
         "version": 2,
         "internalName": "XoilacProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/XoilacProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/XoilacProvider.cs3",
         "name": "XoilacProvider"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/cakhia.ico",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/cakhia.ico",
         "apiVersion": 1,
         "fileSize": 48209,
         "status": 1,
@@ -247,13 +247,13 @@
         "version": 1,
         "internalName": "CakhiaTV",
         "description": "FullHD",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/CakhiaTV.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/CakhiaTV.cs3",
         "name": "LiveBongDa"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/buncha.png",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/buncha.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 0,
         "language": "vi",
         "authors": [
@@ -265,13 +265,13 @@
         ],
         "version": 2,
         "internalName": "BunchaProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/BunchaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/BunchaProvider.cs3",
         "name": "BunchaTV"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/phimviet.png",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/phimviet.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -284,13 +284,13 @@
         "version": 2,
         "internalName": "PhimViet",
         "description": "4k-FullHD",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimBetaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/PhimBetaProvider.cs3",
         "name": "PhimViet"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -302,13 +302,13 @@
         ],
         "version": 2,
         "internalName": "Dailymotion-VN",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/Dailymotion.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/Dailymotion.cs3",
         "name": "Dailymotion-VN"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/nguonc-icon.png",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/nguonc-icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -320,13 +320,13 @@
         ],
         "version": 2,
         "internalName": "NguonCProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimNguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/PhimNguonCProvider.cs3",
         "name": "PhimNguồnC"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/icon/sieutamphim.png",
+        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/sieutamphim.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 0,
         "language": "vi",
         "authors": [
@@ -339,13 +339,13 @@
         ],
         "version": 2,
         "internalName": "SieuTamPhim",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/SieuTamPhim.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/SieuTamPhim.cs3",
         "name": "Siêu Tầm Phim"
     },
     {
         "iconUrl": "https://sdfim.org/wp-content/uploads/2023/01/SDFIM-15.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 0,
         "language": "vi",
         "authors": [
@@ -358,13 +358,13 @@
         ],
         "version": 2,
         "internalName": "SdFim",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/SdFim.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/SdFim.cs3",
         "name": "SdFim"
     },
     {
         "iconUrl": "https://hhtq4k.top/wp-content/uploads/2025/04/cropped-ChatGPT-Image-08_53_40-17-thg-4-2025-192x192.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -375,13 +375,13 @@
         ],
         "version": 2,
         "internalName": "HHTQ4K",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/HHTQ4KTOP.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/HHTQ4KTOP.cs3",
         "name": "HHTQ4K"
     },
     {
         "iconUrl": "https://holitv.org/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 0,
         "language": "vi",
         "authors": [
@@ -394,13 +394,13 @@
         ],
         "version": 2,
         "internalName": "HoliTV",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/HoliTV.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/HoliTV.cs3",
         "name": "HoliTV"
     },
     {
         "iconUrl": "https://www.rophim.me/images/favicon.ico?v=0.1",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
         "status": 0,
         "language": "vi",
         "authors": [
@@ -413,7 +413,7 @@
         ],
         "version": 1,
         "internalName": "RoPhimProvider",
-        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/RoPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/RoPhimProvider.cs3",
         "name": "Rổ Phim"
     }
 ]
