@@ -322,24 +322,5 @@
         "internalName": "HHTQ4K",
         "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/HHTQ4KTOP.cs3",
         "name": "HHTQ4K"
-    },
-    {
-        "iconUrl": "https://holitv.org/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "BinhPro"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "HoliTV",
-        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/HoliTV.cs3",
-        "name": "HoliTV"
     }
 ]
