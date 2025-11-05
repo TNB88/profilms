@@ -307,44 +307,6 @@
         "name": "PhimNguồnC"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/sieutamphim.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "BinhPro"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "SieuTamPhim",
-        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/SieuTamPhim.cs3",
-        "name": "Siêu Tầm Phim"
-    },
-    {
-        "iconUrl": "https://sdfim.org/wp-content/uploads/2023/01/SDFIM-15.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "BinhPro"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "SdFim",
-        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/SdFim.cs3",
-        "name": "SdFim"
-    },
-    {
         "iconUrl": "https://hhtq4k.top/wp-content/uploads/2025/04/cropped-ChatGPT-Image-08_53_40-17-thg-4-2025-192x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
