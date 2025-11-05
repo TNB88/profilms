@@ -1,23 +1,5 @@
 [
     {
-        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/phimmoi.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "BinhPro"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "PhimMoiProvider",
-        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/PhimMoiChillProvider.cs3",
-        "name": "PhimMoiProviderr"
-    },
-    {
         "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
