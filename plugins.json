@@ -398,23 +398,4 @@
         "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/HoliTV.cs3",
         "name": "HoliTV"
     },
-    {
-        "iconUrl": "https://www.rophim.me/images/favicon.ico?v=0.1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "BinhPro"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "RoPhimProvider",
-        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/RoPhimProvider.cs3",
-        "name": "Rổ Phim"
-    },
 ]
