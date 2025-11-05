@@ -270,24 +270,6 @@
         "name": "LiveBongDa"
     },
     {
-        "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/buncha.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "BinhPro"
-        ],
-        "tvTypes": [
-            "Live",
-            "Others"
-        ],
-        "version": 2,
-        "internalName": "BunchaProvider",
-        "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/BunchaProvider.cs3",
-        "name": "BunchaTV"
-    },
-    {
         "iconUrl": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/icon/phimviet.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TNB88/profilms/tree/main",
@@ -434,5 +416,5 @@
         "internalName": "RoPhimProvider",
         "url": "https://raw.githubusercontent.com/TNB88/profilms/refs/heads/main/RoPhimProvider.cs3",
         "name": "Rổ Phim"
-    }
+    },
 ]
